@@ -1,0 +1,2 @@
+# sloakamtech
+this is slokam
